@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/FireFather/BigBallz/master/bitmaps/bigballz.png)
 
-Many thanks to Tomass Sobczyk (Sopel97) for his huge NNUE!, and the inspiration to create this engine.
+**Many thanks to Tomass Sobczyk (Sopel97) for his huge NNUE!, and the inspiration to create this engine**
 
 This is a **FREE** UCI-compatibile chess engine. It is a fork of [FatTitz](https://github.com/Sopel97/FatTitz), which is a fork of [Cfish](https://github.com/syzygy1/Cfish), which is a fork of [Stockfish](https://github.com/official-stockfish/Stockfish), which is a fork of [Glaurung](https://github.com/phenri/glaurung).
 
